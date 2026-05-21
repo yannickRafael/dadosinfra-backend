@@ -11,4 +11,4 @@ const TenderSchema = new mongoose.Schema({
 
 TenderSchema.index({projectId:1});
 
-module.exports = mongoose.model('Tender', TenderSchema)
+module.exports = mongoose.model('Tender', TenderSchema);

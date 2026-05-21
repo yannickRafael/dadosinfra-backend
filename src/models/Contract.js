@@ -9,8 +9,8 @@ const ContractSchema = mongoose.Schema({
     value:{amount: Number, currency:String},
     dateSigned: String,
     period:{startDate: String, endDate: String}
-});
+}, {timestamps: true});
 
 ContractSchema.index({projectId:1});
 
-module.exports = mongoose.model('Contract', ContractSchema)
+module.exports = mongoose.model('Contract', ContractSchema);

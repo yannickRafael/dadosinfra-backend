@@ -1,0 +1,4990 @@
+[
+  {
+    "ocid": "ocds-abc123-MZ-0001",
+    "title": "Niassa Secondary School Rehabilitation",
+    "description": "Completion phase of the niassa secondary school rehabilitation project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "education",
+    "province": "Niassa",
+    "budget": {
+      "amount": 452274735,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2019-05-25",
+      "endDate": "2027-04-22"
+    },
+    "parties": [
+      {
+        "name": "Fundo de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "STFA Group",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Niassa Secondary School Rehabilitation — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 266842093,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-04-08",
+          "endDate": "2023-03-19"
+        }
+      },
+      {
+        "title": "Niassa Secondary School Rehabilitation — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 262319346,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-11-20",
+          "endDate": "2020-03-15"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Secondary School Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 212569125,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-11-22",
+        "period": {
+          "startDate": "2020-04-22",
+          "endDate": "2024-11-16"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Secondary School Rehabilitation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2019-01-24"
+      },
+      {
+        "title": "Niassa Secondary School Rehabilitation — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2022-06-28"
+      },
+      {
+        "title": "Niassa Secondary School Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2022-02-04"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0002",
+    "title": "Maputo Urban Road Expansion",
+    "description": "Identification phase of the maputo urban road expansion project in Maputo province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "transport",
+    "province": "Maputo",
+    "budget": {
+      "amount": 214222375,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2019-03-02",
+      "endDate": "2025-06-19"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Educação",
+        "role": "buyer"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Maputo Urban Road Expansion — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 104968963,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-12-16",
+          "endDate": "2022-08-26"
+        }
+      },
+      {
+        "title": "Maputo Urban Road Expansion — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 111395635,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-11-11",
+          "endDate": "2023-07-26"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Maputo Urban Road Expansion — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Ministério da Educação",
+        "value": {
+          "amount": 109253411,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-11-20",
+        "period": {
+          "startDate": "2022-11-25",
+          "endDate": "2028-10-05"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Maputo Urban Road Expansion — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-02-17"
+      },
+      {
+        "title": "Maputo Urban Road Expansion — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2023-02-15"
+      },
+      {
+        "title": "Maputo Urban Road Expansion — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2019-04-01"
+      },
+      {
+        "title": "Maputo Urban Road Expansion — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2020-04-20"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0003",
+    "title": "Manica Highway Upgrade",
+    "description": "Identification phase of the manica highway upgrade project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "transport",
+    "province": "Manica",
+    "budget": {
+      "amount": 357249151,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-12-18",
+      "endDate": "2026-12-16"
+    },
+    "parties": [
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério das Obras Públicas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Manica Highway Upgrade — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 146472151,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-11-17",
+          "endDate": "2019-05-28"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Highway Upgrade — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Fundo de Estradas",
+        "value": {
+          "amount": 132182185,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-02-10",
+        "period": {
+          "startDate": "2023-04-22",
+          "endDate": "2024-07-15"
+        }
+      },
+      {
+        "title": "Manica Highway Upgrade — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Administração Nacional de Estradas",
+        "value": {
+          "amount": 125037202,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-03-20",
+        "period": {
+          "startDate": "2021-08-14",
+          "endDate": "2027-04-21"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Highway Upgrade — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2023-07-15"
+      },
+      {
+        "title": "Manica Highway Upgrade — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2021-04-09"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0004",
+    "title": "Nampula Water Treatment Plant",
+    "description": "Identification phase of the nampula water treatment plant project in Nampula province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "water",
+    "province": "Nampula",
+    "budget": {
+      "amount": 404655943,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2020-11-15",
+      "endDate": "2026-08-18"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Nampula Water Treatment Plant — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 214467649,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-11-22",
+          "endDate": "2019-08-08"
+        }
+      },
+      {
+        "title": "Nampula Water Treatment Plant — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 182095174,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-08-15",
+          "endDate": "2019-03-26"
+        }
+      },
+      {
+        "title": "Nampula Water Treatment Plant — Works Contract Lot 3",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 210421090,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-04-09",
+          "endDate": "2023-02-20"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Nampula Water Treatment Plant — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 222560768,
+          "currency": "MZN"
+        },
+        "dateSigned": "2022-08-16",
+        "period": {
+          "startDate": "2021-11-05",
+          "endDate": "2027-04-23"
+        }
+      },
+      {
+        "title": "Nampula Water Treatment Plant — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "FIPAG",
+        "value": {
+          "amount": 214467649,
+          "currency": "MZN"
+        },
+        "dateSigned": "2020-02-21",
+        "period": {
+          "startDate": "2020-10-26",
+          "endDate": "2027-10-20"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Nampula Water Treatment Plant — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-06-05"
+      },
+      {
+        "title": "Nampula Water Treatment Plant — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2019-06-21"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0005",
+    "title": "Tete Secondary School Rehabilitation",
+    "description": "Cancelled phase of the tete secondary school rehabilitation project in Tete province. Funded under the national infrastructure development programme.",
+    "status": "cancelled",
+    "sector": "education",
+    "province": "Tete",
+    "budget": {
+      "amount": 134220482,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-10-12",
+      "endDate": "2024-09-25"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Saúde",
+        "role": "buyer"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "STFA Group",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Tete Secondary School Rehabilitation — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 80532289,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-10-21",
+          "endDate": "2018-02-13"
+        }
+      },
+      {
+        "title": "Tete Secondary School Rehabilitation — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 76505674,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-03-17",
+          "endDate": "2022-08-11"
+        }
+      },
+      {
+        "title": "Tete Secondary School Rehabilitation — Works Contract Lot 3",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 57714807,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-08-05",
+          "endDate": "2019-03-24"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Tete Secondary School Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "JICA Mozambique",
+        "value": {
+          "amount": 46977168,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-04-22",
+        "period": {
+          "startDate": "2020-12-08",
+          "endDate": "2024-05-22"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Tete Secondary School Rehabilitation — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2021-07-11"
+      },
+      {
+        "title": "Tete Secondary School Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-05-08"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0006",
+    "title": "Nampula Water Treatment Plant",
+    "description": "Implementation phase of the nampula water treatment plant project in Nampula province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "water",
+    "province": "Nampula",
+    "budget": {
+      "amount": 300855904,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-11-03",
+      "endDate": "2025-02-21"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Educação",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Nampula Water Treatment Plant — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 159453629,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-12-05",
+          "endDate": "2022-10-21"
+        }
+      },
+      {
+        "title": "Nampula Water Treatment Plant — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 177504983,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-08-20",
+          "endDate": "2019-12-01"
+        }
+      },
+      {
+        "title": "Nampula Water Treatment Plant — Works Contract Lot 3",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 132376597,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-07-23",
+          "endDate": "2023-02-23"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Nampula Water Treatment Plant — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Administração Nacional de Estradas",
+        "value": {
+          "amount": 135385156,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-12-28",
+        "period": {
+          "startDate": "2021-09-22",
+          "endDate": "2027-02-01"
+        }
+      },
+      {
+        "title": "Nampula Water Treatment Plant — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Ministério das Obras Públicas",
+        "value": {
+          "amount": 117333802,
+          "currency": "USD"
+        },
+        "dateSigned": "2018-06-23",
+        "period": {
+          "startDate": "2023-07-23",
+          "endDate": "2028-02-18"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Nampula Water Treatment Plant — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-04-22"
+      },
+      {
+        "title": "Nampula Water Treatment Plant — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-04-17"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0007",
+    "title": "Gaza Maternity Ward Rehabilitation",
+    "description": "Maintenance phase of the gaza maternity ward rehabilitation project in Gaza province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "health",
+    "province": "Gaza",
+    "budget": {
+      "amount": 134225363,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2019-11-12",
+      "endDate": "2028-06-05"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Educação",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Gaza Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 64428174,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-07-09",
+          "endDate": "2018-01-20"
+        }
+      },
+      {
+        "title": "Gaza Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 73823949,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-09-16",
+          "endDate": "2020-08-27"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Gaza Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 57716906,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-01-22",
+        "period": {
+          "startDate": "2023-12-14",
+          "endDate": "2024-02-28"
+        }
+      },
+      {
+        "title": "Gaza Maternity Ward Rehabilitation — Civil Works Lot 2",
+        "status": "active",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 53690145,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-01-27",
+        "period": {
+          "startDate": "2020-04-26",
+          "endDate": "2024-12-01"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Gaza Maternity Ward Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2023-04-03"
+      },
+      {
+        "title": "Gaza Maternity Ward Rehabilitation — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2022-05-08"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0008",
+    "title": "Niassa Bridge Construction",
+    "description": "Maintenance phase of the niassa bridge construction project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "transport",
+    "province": "Niassa",
+    "budget": {
+      "amount": 339315739,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-10-20",
+      "endDate": "2027-02-10"
+    },
+    "parties": [
+      {
+        "name": "Banco Mundial",
+        "role": "buyer"
+      },
+      {
+        "name": "FIPAG",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Niassa Bridge Construction — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 179837341,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-08-22",
+          "endDate": "2021-09-05"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Bridge Construction — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 149298925,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-11-01",
+        "period": {
+          "startDate": "2021-07-03",
+          "endDate": "2027-12-02"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Bridge Construction — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2020-12-21"
+      },
+      {
+        "title": "Niassa Bridge Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2019-01-17"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0009",
+    "title": "Niassa Water Treatment Plant",
+    "description": "Completion phase of the niassa water treatment plant project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "water",
+    "province": "Niassa",
+    "budget": {
+      "amount": 114731132,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2022-05-15",
+      "endDate": "2026-03-22"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Educação",
+        "role": "buyer"
+      },
+      {
+        "name": "African Development Bank",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Niassa Water Treatment Plant — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 59660188,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-10-10",
+          "endDate": "2023-12-10"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Water Treatment Plant — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "Conduril Engenharia",
+        "value": {
+          "amount": 47039764,
+          "currency": "MZN"
+        },
+        "dateSigned": "2020-09-22",
+        "period": {
+          "startDate": "2019-01-24",
+          "endDate": "2024-10-27"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Water Treatment Plant — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-10-23"
+      },
+      {
+        "title": "Niassa Water Treatment Plant — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-11-21"
+      },
+      {
+        "title": "Niassa Water Treatment Plant — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2019-08-02"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0010",
+    "title": "Gaza Teacher Training Centre",
+    "description": "Decommissioning phase of the gaza teacher training centre project in Gaza province. Funded under the national infrastructure development programme.",
+    "status": "decommissioning",
+    "sector": "education",
+    "province": "Gaza",
+    "budget": {
+      "amount": 115149021,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-02-21",
+      "endDate": "2027-06-17"
+    },
+    "parties": [
+      {
+        "name": "DPOPH Nampula",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Gaza Teacher Training Centre — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 66786432,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-02-16",
+          "endDate": "2018-07-08"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Gaza Teacher Training Centre — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Ministério da Educação",
+        "value": {
+          "amount": 42605137,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-06-18",
+        "period": {
+          "startDate": "2023-02-17",
+          "endDate": "2027-03-19"
+        }
+      },
+      {
+        "title": "Gaza Teacher Training Centre — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 43756627,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-02-24",
+        "period": {
+          "startDate": "2022-01-27",
+          "endDate": "2027-10-11"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Gaza Teacher Training Centre — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2018-06-19"
+      },
+      {
+        "title": "Gaza Teacher Training Centre — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2021-08-08"
+      },
+      {
+        "title": "Gaza Teacher Training Centre — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2018-05-06"
+      },
+      {
+        "title": "Gaza Teacher Training Centre — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2018-10-16"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0011",
+    "title": "Cabo Delgado Maternity Ward Rehabilitation",
+    "description": "Preparation phase of the cabo delgado maternity ward rehabilitation project in Cabo Delgado province. Funded under the national infrastructure development programme.",
+    "status": "preparation",
+    "sector": "health",
+    "province": "Cabo Delgado",
+    "budget": {
+      "amount": 262507943,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2019-11-09",
+      "endDate": "2028-11-10"
+    },
+    "parties": [
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 107628256,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-01-07",
+          "endDate": "2022-01-12"
+        }
+      },
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 120753653,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-01-04",
+          "endDate": "2022-10-14"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "DPOPH Sofala",
+        "value": {
+          "amount": 107628256,
+          "currency": "MZN"
+        },
+        "dateSigned": "2023-06-09",
+        "period": {
+          "startDate": "2022-09-28",
+          "endDate": "2026-08-18"
+        }
+      },
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 141754289,
+          "currency": "MZN"
+        },
+        "dateSigned": "2019-01-08",
+        "period": {
+          "startDate": "2022-06-15",
+          "endDate": "2025-07-16"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-04-19"
+      },
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0012",
+    "title": "Tete Borehole Drilling",
+    "description": "Completion phase of the tete borehole drilling project in Tete province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "water",
+    "province": "Tete",
+    "budget": {
+      "amount": 335356111,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-12-11",
+      "endDate": "2027-05-03"
+    },
+    "parties": [
+      {
+        "name": "JICA Mozambique",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Fundo de Estradas",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Tete Borehole Drilling — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 164324494,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-12-13",
+          "endDate": "2022-12-01"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Tete Borehole Drilling — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 164324494,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-05-03",
+        "period": {
+          "startDate": "2022-07-21",
+          "endDate": "2024-02-05"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Tete Borehole Drilling — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-11-25"
+      },
+      {
+        "title": "Tete Borehole Drilling — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-05-08"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0013",
+    "title": "Manica Medical Supply Depot",
+    "description": "Completion phase of the manica medical supply depot project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "health",
+    "province": "Manica",
+    "budget": {
+      "amount": 145682510,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2020-11-12",
+      "endDate": "2025-09-11"
+    },
+    "parties": [
+      {
+        "name": "China Road and Bridge Corporation",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Conduril Engenharia",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Manica Medical Supply Depot — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 84495855,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-12-19",
+          "endDate": "2021-09-05"
+        }
+      },
+      {
+        "title": "Manica Medical Supply Depot — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 71384429,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-06-15",
+          "endDate": "2020-07-13"
+        }
+      },
+      {
+        "title": "Manica Medical Supply Depot — Works Contract Lot 3",
+        "status": "cancelled",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 75754905,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-02-18",
+          "endDate": "2023-08-09"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Medical Supply Depot — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 67013954,
+          "currency": "MZN"
+        },
+        "dateSigned": "2021-04-21",
+        "period": {
+          "startDate": "2021-02-05",
+          "endDate": "2024-05-27"
+        }
+      },
+      {
+        "title": "Manica Medical Supply Depot — Civil Works Lot 2",
+        "status": "pending",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 80125380,
+          "currency": "MZN"
+        },
+        "dateSigned": "2023-06-17",
+        "period": {
+          "startDate": "2019-10-18",
+          "endDate": "2024-09-14"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Medical Supply Depot — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-12-13"
+      },
+      {
+        "title": "Manica Medical Supply Depot — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2020-07-27"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0014",
+    "title": "Sofala Maternity Ward Rehabilitation",
+    "description": "Completion phase of the sofala maternity ward rehabilitation project in Sofala province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "health",
+    "province": "Sofala",
+    "budget": {
+      "amount": 409588318,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-08-01",
+      "endDate": "2024-01-17"
+    },
+    "parties": [
+      {
+        "name": "FIPAG",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 184314743,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-07-07",
+          "endDate": "2022-02-11"
+        }
+      },
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 245752990,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-05-06",
+          "endDate": "2020-01-15"
+        }
+      },
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — Works Contract Lot 3",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 176122976,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-02-14",
+          "endDate": "2020-07-05"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 221177691,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-04-18",
+        "period": {
+          "startDate": "2023-02-05",
+          "endDate": "2027-08-10"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2022-06-10"
+      },
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-11-23"
+      },
+      {
+        "title": "Sofala Maternity Ward Rehabilitation — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2022-03-13"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0015",
+    "title": "Manica Substation Upgrade",
+    "description": "Identification phase of the manica substation upgrade project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "energy",
+    "province": "Manica",
+    "budget": {
+      "amount": 196355097,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-02-22",
+      "endDate": "2025-04-08"
+    },
+    "parties": [
+      {
+        "name": "China Road and Bridge Corporation",
+        "role": "buyer"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Manica Substation Upgrade — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 111922405,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-03-09",
+          "endDate": "2018-05-27"
+        }
+      },
+      {
+        "title": "Manica Substation Upgrade — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 78542038,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-02-22",
+          "endDate": "2021-10-19"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Substation Upgrade — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 102104650,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-07-03",
+        "period": {
+          "startDate": "2021-09-25",
+          "endDate": "2026-03-17"
+        }
+      },
+      {
+        "title": "Manica Substation Upgrade — Civil Works Lot 2",
+        "status": "active",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 100141099,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-10-16",
+        "period": {
+          "startDate": "2022-10-07",
+          "endDate": "2024-01-22"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Substation Upgrade — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2021-04-13"
+      },
+      {
+        "title": "Manica Substation Upgrade — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2022-08-15"
+      },
+      {
+        "title": "Manica Substation Upgrade — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-10-13"
+      },
+      {
+        "title": "Manica Substation Upgrade — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2022-10-17"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0016",
+    "title": "Zambezia Maternity Ward Rehabilitation",
+    "description": "Decommissioning phase of the zambezia maternity ward rehabilitation project in Zambezia province. Funded under the national infrastructure development programme.",
+    "status": "decommissioning",
+    "sector": "health",
+    "province": "Zambezia",
+    "budget": {
+      "amount": 119975517,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-04-01",
+      "endDate": "2025-12-22"
+    },
+    "parties": [
+      {
+        "name": "DPOPH Sofala",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Zambezia Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 63587024,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-09-02",
+          "endDate": "2020-03-11"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Zambezia Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "FIPAG",
+        "value": {
+          "amount": 64786779,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-01-01",
+        "period": {
+          "startDate": "2022-04-20",
+          "endDate": "2027-07-28"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Zambezia Maternity Ward Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2022-02-18"
+      },
+      {
+        "title": "Zambezia Maternity Ward Rehabilitation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2019-05-02"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0017",
+    "title": "Gaza Solar Grid Installation",
+    "description": "Identification phase of the gaza solar grid installation project in Gaza province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "energy",
+    "province": "Gaza",
+    "budget": {
+      "amount": 123861969,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-09-23",
+      "endDate": "2026-12-27"
+    },
+    "parties": [
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Gaza Solar Grid Installation — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 70601322,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-10-11",
+          "endDate": "2022-04-09"
+        }
+      },
+      {
+        "title": "Gaza Solar Grid Installation — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 61930984,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-12-24",
+          "endDate": "2019-04-20"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Gaza Solar Grid Installation — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "EDM - Electricidade de Moçambique",
+        "value": {
+          "amount": 68124082,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-02-02",
+        "period": {
+          "startDate": "2023-01-12",
+          "endDate": "2025-08-21"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Gaza Solar Grid Installation — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2021-06-08"
+      },
+      {
+        "title": "Gaza Solar Grid Installation — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2019-11-08"
+      },
+      {
+        "title": "Gaza Solar Grid Installation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-11-12"
+      },
+      {
+        "title": "Gaza Solar Grid Installation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2019-02-20"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0018",
+    "title": "Niassa Maternity Ward Rehabilitation",
+    "description": "Cancelled phase of the niassa maternity ward rehabilitation project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "cancelled",
+    "sector": "health",
+    "province": "Niassa",
+    "budget": {
+      "amount": 263745291,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2023-09-09",
+      "endDate": "2027-05-26"
+    },
+    "parties": [
+      {
+        "name": "FIPAG",
+        "role": "buyer"
+      },
+      {
+        "name": "Fundo de Estradas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "STFA Group",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 110773022,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-11-19",
+          "endDate": "2019-12-14"
+        }
+      },
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 113410475,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-10-01",
+          "endDate": "2021-12-09"
+        }
+      },
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — Works Contract Lot 3",
+        "status": "cancelled",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 137147551,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-04-11",
+          "endDate": "2018-11-11"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 137147551,
+          "currency": "MZN"
+        },
+        "dateSigned": "2018-04-16",
+        "period": {
+          "startDate": "2019-06-01",
+          "endDate": "2027-10-20"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2022-07-19"
+      },
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2020-05-16"
+      },
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-10-09"
+      },
+      {
+        "title": "Niassa Maternity Ward Rehabilitation — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2018-05-07"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0019",
+    "title": "Cabo Delgado Teacher Training Centre",
+    "description": "Completion phase of the cabo delgado teacher training centre project in Cabo Delgado province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "education",
+    "province": "Cabo Delgado",
+    "budget": {
+      "amount": 38829808,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2022-10-17",
+      "endDate": "2028-05-11"
+    },
+    "parties": [
+      {
+        "name": "Conduril Engenharia",
+        "role": "buyer"
+      },
+      {
+        "name": "STFA Group",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "FIPAG",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Cabo Delgado Teacher Training Centre — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 19414904,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-11-27",
+          "endDate": "2023-12-16"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Cabo Delgado Teacher Training Centre — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "FIPAG",
+        "value": {
+          "amount": 17085115,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-07-21",
+        "period": {
+          "startDate": "2021-06-04",
+          "endDate": "2026-09-24"
+        }
+      },
+      {
+        "title": "Cabo Delgado Teacher Training Centre — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 20968096,
+          "currency": "USD"
+        },
+        "dateSigned": "2018-10-04",
+        "period": {
+          "startDate": "2020-06-24",
+          "endDate": "2024-07-13"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Cabo Delgado Teacher Training Centre — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-06-21"
+      },
+      {
+        "title": "Cabo Delgado Teacher Training Centre — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-09-17"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0020",
+    "title": "Manica Health Centre Construction",
+    "description": "Maintenance phase of the manica health centre construction project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "health",
+    "province": "Manica",
+    "budget": {
+      "amount": 423167459,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2019-05-08",
+      "endDate": "2025-01-10"
+    },
+    "parties": [
+      {
+        "name": "Ministério das Obras Públicas",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Manica Health Centre Construction — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 190425356,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-03-18",
+          "endDate": "2021-02-05"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Health Centre Construction — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 160803634,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-09-01",
+        "period": {
+          "startDate": "2020-03-28",
+          "endDate": "2025-04-17"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Health Centre Construction — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2019-02-27"
+      },
+      {
+        "title": "Manica Health Centre Construction — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2019-07-02"
+      },
+      {
+        "title": "Manica Health Centre Construction — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2023-07-06"
+      },
+      {
+        "title": "Manica Health Centre Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2023-04-26"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0021",
+    "title": "Cabo Delgado Urban Road Expansion",
+    "description": "Identification phase of the cabo delgado urban road expansion project in Cabo Delgado province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "transport",
+    "province": "Cabo Delgado",
+    "budget": {
+      "amount": 177821292,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2019-09-14",
+      "endDate": "2024-05-20"
+    },
+    "parties": [
+      {
+        "name": "DPOPH Nampula",
+        "role": "buyer"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Cabo Delgado Urban Road Expansion — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 101358136,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-07-09",
+          "endDate": "2021-10-23"
+        }
+      },
+      {
+        "title": "Cabo Delgado Urban Road Expansion — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 103136349,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-12-27",
+          "endDate": "2020-01-02"
+        }
+      },
+      {
+        "title": "Cabo Delgado Urban Road Expansion — Works Contract Lot 3",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 85354220,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-05-27",
+          "endDate": "2019-04-02"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Cabo Delgado Urban Road Expansion — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "EDM - Electricidade de Moçambique",
+        "value": {
+          "amount": 90688858,
+          "currency": "MZN"
+        },
+        "dateSigned": "2020-03-08",
+        "period": {
+          "startDate": "2022-03-23",
+          "endDate": "2024-10-07"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Cabo Delgado Urban Road Expansion — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-11-25"
+      },
+      {
+        "title": "Cabo Delgado Urban Road Expansion — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-09-26"
+      },
+      {
+        "title": "Cabo Delgado Urban Road Expansion — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-04-17"
+      },
+      {
+        "title": "Cabo Delgado Urban Road Expansion — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2023-05-13"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0022",
+    "title": "Niassa Primary School Construction",
+    "description": "Maintenance phase of the niassa primary school construction project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "education",
+    "province": "Niassa",
+    "budget": {
+      "amount": 169041947,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2023-12-18",
+      "endDate": "2027-07-27"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Educação",
+        "role": "buyer"
+      },
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "African Development Bank",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Niassa Primary School Construction — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 98044329,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-07-21",
+          "endDate": "2020-02-09"
+        }
+      },
+      {
+        "title": "Niassa Primary School Construction — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 79449715,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-02-18",
+          "endDate": "2021-08-12"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Primary School Construction — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 87901812,
+          "currency": "MZN"
+        },
+        "dateSigned": "2019-10-19",
+        "period": {
+          "startDate": "2023-04-09",
+          "endDate": "2024-06-02"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Primary School Construction — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2020-02-18"
+      },
+      {
+        "title": "Niassa Primary School Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2018-12-11"
+      },
+      {
+        "title": "Niassa Primary School Construction — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-07-27"
+      },
+      {
+        "title": "Niassa Primary School Construction — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2023-04-11"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0023",
+    "title": "Zambezia Sanitation Network",
+    "description": "Implementation phase of the zambezia sanitation network project in Zambezia province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "water",
+    "province": "Zambezia",
+    "budget": {
+      "amount": 336874166,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2019-03-01",
+      "endDate": "2027-07-07"
+    },
+    "parties": [
+      {
+        "name": "FIPAG",
+        "role": "buyer"
+      },
+      {
+        "name": "FIPAG",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "African Development Bank",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Zambezia Sanitation Network — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 144855891,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-03-16",
+          "endDate": "2018-07-02"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Zambezia Sanitation Network — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 158330858,
+          "currency": "MZN"
+        },
+        "dateSigned": "2022-06-07",
+        "period": {
+          "startDate": "2022-07-20",
+          "endDate": "2028-08-23"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Zambezia Sanitation Network — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-08-08"
+      },
+      {
+        "title": "Zambezia Sanitation Network — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2019-12-12"
+      },
+      {
+        "title": "Zambezia Sanitation Network — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2018-05-13"
+      },
+      {
+        "title": "Zambezia Sanitation Network — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2022-12-16"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0024",
+    "title": "Nampula Secondary School Rehabilitation",
+    "description": "Completion phase of the nampula secondary school rehabilitation project in Nampula province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "education",
+    "province": "Nampula",
+    "budget": {
+      "amount": 370210706,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2023-11-17",
+      "endDate": "2028-10-07"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Saúde",
+        "role": "buyer"
+      },
+      {
+        "name": "Fundo de Estradas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Nampula Secondary School Rehabilitation — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 162892710,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-12-20",
+          "endDate": "2019-12-20"
+        }
+      },
+      {
+        "title": "Nampula Secondary School Rehabilitation — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 207317995,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-05-15",
+          "endDate": "2022-03-09"
+        }
+      },
+      {
+        "title": "Nampula Secondary School Rehabilitation — Works Contract Lot 3",
+        "status": "planned",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 173999031,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-09-18",
+          "endDate": "2023-11-11"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Nampula Secondary School Rehabilitation — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "FIPAG",
+        "value": {
+          "amount": 162892710,
+          "currency": "MZN"
+        },
+        "dateSigned": "2020-08-28",
+        "period": {
+          "startDate": "2023-01-01",
+          "endDate": "2028-04-20"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Nampula Secondary School Rehabilitation — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2023-08-12"
+      },
+      {
+        "title": "Nampula Secondary School Rehabilitation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2020-11-11"
+      },
+      {
+        "title": "Nampula Secondary School Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2020-11-16"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0025",
+    "title": "Cabo Delgado Rural Road Paving",
+    "description": "Implementation phase of the cabo delgado rural road paving project in Cabo Delgado province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "transport",
+    "province": "Cabo Delgado",
+    "budget": {
+      "amount": 338689053,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-06-10",
+      "endDate": "2027-01-28"
+    },
+    "parties": [
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "STFA Group",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Cabo Delgado Rural Road Paving — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 159183854,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-01-15",
+          "endDate": "2020-02-13"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Cabo Delgado Rural Road Paving — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "Fundo de Estradas",
+        "value": {
+          "amount": 121928059,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-10-15",
+        "period": {
+          "startDate": "2020-07-18",
+          "endDate": "2028-04-08"
+        }
+      },
+      {
+        "title": "Cabo Delgado Rural Road Paving — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "Ministério das Obras Públicas",
+        "value": {
+          "amount": 172731417,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-11-18",
+        "period": {
+          "startDate": "2019-03-28",
+          "endDate": "2027-01-22"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Cabo Delgado Rural Road Paving — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2018-09-07"
+      },
+      {
+        "title": "Cabo Delgado Rural Road Paving — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2023-11-15"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0026",
+    "title": "Niassa Technical College Expansion",
+    "description": "Maintenance phase of the niassa technical college expansion project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "education",
+    "province": "Niassa",
+    "budget": {
+      "amount": 366052140,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-02-28",
+      "endDate": "2024-08-10"
+    },
+    "parties": [
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "JICA Mozambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "China Road and Bridge Corporation",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Niassa Technical College Expansion — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 197668155,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-05-28",
+          "endDate": "2021-07-19"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Technical College Expansion — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 146420856,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-04-10",
+        "period": {
+          "startDate": "2021-04-18",
+          "endDate": "2026-11-15"
+        }
+      },
+      {
+        "title": "Niassa Technical College Expansion — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 153741898,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-01-22",
+        "period": {
+          "startDate": "2021-09-27",
+          "endDate": "2026-09-17"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Technical College Expansion — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2022-09-18"
+      },
+      {
+        "title": "Niassa Technical College Expansion — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2020-02-09"
+      },
+      {
+        "title": "Niassa Technical College Expansion — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2018-07-21"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0027",
+    "title": "Inhambane Secondary School Rehabilitation",
+    "description": "Identification phase of the inhambane secondary school rehabilitation project in Inhambane province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "education",
+    "province": "Inhambane",
+    "budget": {
+      "amount": 237376989,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2020-01-17",
+      "endDate": "2025-05-18"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Inhambane Secondary School Rehabilitation — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 109193414,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-08-10",
+          "endDate": "2022-06-05"
+        }
+      },
+      {
+        "title": "Inhambane Secondary School Rehabilitation — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 106819645,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-07-16",
+          "endDate": "2023-09-04"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Inhambane Secondary School Rehabilitation — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 111567184,
+          "currency": "MZN"
+        },
+        "dateSigned": "2021-01-05",
+        "period": {
+          "startDate": "2022-11-16",
+          "endDate": "2025-01-26"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Inhambane Secondary School Rehabilitation — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2022-02-04"
+      },
+      {
+        "title": "Inhambane Secondary School Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2023-03-16"
+      },
+      {
+        "title": "Inhambane Secondary School Rehabilitation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-11-28"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0028",
+    "title": "Tete Primary School Construction",
+    "description": "Maintenance phase of the tete primary school construction project in Tete province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "education",
+    "province": "Tete",
+    "budget": {
+      "amount": 430893154,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2022-09-15",
+      "endDate": "2025-04-14"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Saúde",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Conduril Engenharia",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Tete Primary School Construction — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 198210850,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-01-03",
+          "endDate": "2020-09-27"
+        }
+      },
+      {
+        "title": "Tete Primary School Construction — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 172357261,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-07-27",
+          "endDate": "2020-03-26"
+        }
+      },
+      {
+        "title": "Tete Primary School Construction — Works Contract Lot 3",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 180975124,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-12-01",
+          "endDate": "2018-04-07"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Tete Primary School Construction — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 185284056,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-12-07",
+        "period": {
+          "startDate": "2021-11-15",
+          "endDate": "2028-01-22"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Tete Primary School Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2021-07-19"
+      },
+      {
+        "title": "Tete Primary School Construction — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2022-07-17"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0029",
+    "title": "Manica Substation Upgrade",
+    "description": "Identification phase of the manica substation upgrade project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "energy",
+    "province": "Manica",
+    "budget": {
+      "amount": 498012742,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-01-25",
+      "endDate": "2025-02-04"
+    },
+    "parties": [
+      {
+        "name": "Fundo de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Conduril Engenharia",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Manica Substation Upgrade — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 273907008,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-06-09",
+          "endDate": "2020-03-13"
+        }
+      },
+      {
+        "title": "Manica Substation Upgrade — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 204185224,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-05-09",
+          "endDate": "2022-06-18"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Substation Upgrade — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 179284587,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-01-16",
+        "period": {
+          "startDate": "2021-02-15",
+          "endDate": "2024-11-12"
+        }
+      },
+      {
+        "title": "Manica Substation Upgrade — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "Conduril Engenharia",
+        "value": {
+          "amount": 194224969,
+          "currency": "USD"
+        },
+        "dateSigned": "2018-04-18",
+        "period": {
+          "startDate": "2019-04-23",
+          "endDate": "2026-06-28"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Substation Upgrade — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-07-02"
+      },
+      {
+        "title": "Manica Substation Upgrade — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2020-10-09"
+      },
+      {
+        "title": "Manica Substation Upgrade — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2020-03-09"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0030",
+    "title": "Inhambane Water Supply System",
+    "description": "Preparation phase of the inhambane water supply system project in Inhambane province. Funded under the national infrastructure development programme.",
+    "status": "preparation",
+    "sector": "water",
+    "province": "Inhambane",
+    "budget": {
+      "amount": 169789185,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2021-11-27",
+      "endDate": "2026-02-06"
+    },
+    "parties": [
+      {
+        "name": "Conduril Engenharia",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Inhambane Water Supply System — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 67915674,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-10-22",
+          "endDate": "2021-09-15"
+        }
+      },
+      {
+        "title": "Inhambane Water Supply System — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 89988268,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-03-24",
+          "endDate": "2019-01-23"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Inhambane Water Supply System — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Ministério da Educação",
+        "value": {
+          "amount": 66217782,
+          "currency": "MZN"
+        },
+        "dateSigned": "2022-09-06",
+        "period": {
+          "startDate": "2023-08-17",
+          "endDate": "2026-06-25"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Inhambane Water Supply System — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2022-05-05"
+      },
+      {
+        "title": "Inhambane Water Supply System — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2020-11-13"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0031",
+    "title": "Tete Maternity Ward Rehabilitation",
+    "description": "Maintenance phase of the tete maternity ward rehabilitation project in Tete province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "health",
+    "province": "Tete",
+    "budget": {
+      "amount": 210794828,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2019-12-17",
+      "endDate": "2026-03-06"
+    },
+    "parties": [
+      {
+        "name": "Fundo de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "STFA Group",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Tete Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 96965620,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-04-16",
+          "endDate": "2019-07-22"
+        }
+      },
+      {
+        "title": "Tete Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 126476896,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-09-26",
+          "endDate": "2023-08-10"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Tete Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 82209982,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-06-21",
+        "period": {
+          "startDate": "2019-05-28",
+          "endDate": "2028-04-26"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Tete Maternity Ward Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2023-06-02"
+      },
+      {
+        "title": "Tete Maternity Ward Rehabilitation — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-12-13"
+      },
+      {
+        "title": "Tete Maternity Ward Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2022-03-03"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0032",
+    "title": "Cabo Delgado Maternity Ward Rehabilitation",
+    "description": "Decommissioning phase of the cabo delgado maternity ward rehabilitation project in Cabo Delgado province. Funded under the national infrastructure development programme.",
+    "status": "decommissioning",
+    "sector": "health",
+    "province": "Cabo Delgado",
+    "budget": {
+      "amount": 172999526,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-04-14",
+      "endDate": "2024-05-27"
+    },
+    "parties": [
+      {
+        "name": "Fundo de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "China Road and Bridge Corporation",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 91689748,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-01-07",
+          "endDate": "2018-09-05"
+        }
+      },
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 81309777,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-05-27",
+          "endDate": "2019-12-12"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "EDM - Electricidade de Moçambique",
+        "value": {
+          "amount": 72659800,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-05-10",
+        "period": {
+          "startDate": "2021-07-20",
+          "endDate": "2026-03-14"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2019-07-23"
+      },
+      {
+        "title": "Cabo Delgado Maternity Ward Rehabilitation — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2021-08-15"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0033",
+    "title": "Tete Health Centre Construction",
+    "description": "Implementation phase of the tete health centre construction project in Tete province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "health",
+    "province": "Tete",
+    "budget": {
+      "amount": 379697842,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-06-14",
+      "endDate": "2028-08-01"
+    },
+    "parties": [
+      {
+        "name": "Conduril Engenharia",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Tete Health Centre Construction — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 174661007,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-02-16",
+          "endDate": "2020-02-24"
+        }
+      },
+      {
+        "title": "Tete Health Centre Construction — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 205036834,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-08-11",
+          "endDate": "2021-09-23"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Tete Health Centre Construction — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "African Development Bank",
+        "value": {
+          "amount": 167067050,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-06-03",
+        "period": {
+          "startDate": "2022-11-19",
+          "endDate": "2025-07-03"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Tete Health Centre Construction — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2018-10-18"
+      },
+      {
+        "title": "Tete Health Centre Construction — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2019-08-12"
+      },
+      {
+        "title": "Tete Health Centre Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2021-08-15"
+      },
+      {
+        "title": "Tete Health Centre Construction — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2020-08-28"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0034",
+    "title": "Nampula Sanitation Network",
+    "description": "Preparation phase of the nampula sanitation network project in Nampula province. Funded under the national infrastructure development programme.",
+    "status": "preparation",
+    "sector": "water",
+    "province": "Nampula",
+    "budget": {
+      "amount": 183189057,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2022-06-25",
+      "endDate": "2024-10-10"
+    },
+    "parties": [
+      {
+        "name": "DPOPH Sofala",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Ministério das Obras Públicas",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Nampula Sanitation Network — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 89762637,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-05-27",
+          "endDate": "2022-04-14"
+        }
+      },
+      {
+        "title": "Nampula Sanitation Network — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 86098856,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-07-20",
+          "endDate": "2022-03-14"
+        }
+      },
+      {
+        "title": "Nampula Sanitation Network — Works Contract Lot 3",
+        "status": "cancelled",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 102585871,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-03-01",
+          "endDate": "2021-09-21"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Nampula Sanitation Network — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 76939403,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-06-21",
+        "period": {
+          "startDate": "2019-01-13",
+          "endDate": "2028-04-17"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Nampula Sanitation Network — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2018-03-13"
+      },
+      {
+        "title": "Nampula Sanitation Network — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2020-10-04"
+      },
+      {
+        "title": "Nampula Sanitation Network — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2018-01-23"
+      },
+      {
+        "title": "Nampula Sanitation Network — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2023-01-06"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0035",
+    "title": "Nampula Medical Supply Depot",
+    "description": "Identification phase of the nampula medical supply depot project in Nampula province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "health",
+    "province": "Nampula",
+    "budget": {
+      "amount": 101547572,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2021-11-20",
+      "endDate": "2027-04-15"
+    },
+    "parties": [
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério das Obras Públicas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Nampula Medical Supply Depot — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 57882116,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-12-01",
+          "endDate": "2021-01-24"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Nampula Medical Supply Depot — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 41634504,
+          "currency": "MZN"
+        },
+        "dateSigned": "2020-02-03",
+        "period": {
+          "startDate": "2019-11-02",
+          "endDate": "2025-04-06"
+        }
+      },
+      {
+        "title": "Nampula Medical Supply Depot — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 47727358,
+          "currency": "MZN"
+        },
+        "dateSigned": "2021-06-07",
+        "period": {
+          "startDate": "2023-03-19",
+          "endDate": "2026-01-06"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Nampula Medical Supply Depot — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2018-10-08"
+      },
+      {
+        "title": "Nampula Medical Supply Depot — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2020-03-10"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0036",
+    "title": "Sofala Highway Upgrade",
+    "description": "Implementation phase of the sofala highway upgrade project in Sofala province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "transport",
+    "province": "Sofala",
+    "budget": {
+      "amount": 137469436,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2020-04-06",
+      "endDate": "2025-02-14"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Sofala Highway Upgrade — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 82481661,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-08-27",
+          "endDate": "2018-01-23"
+        }
+      },
+      {
+        "title": "Sofala Highway Upgrade — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 82481661,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-06-08",
+          "endDate": "2020-02-06"
+        }
+      },
+      {
+        "title": "Sofala Highway Upgrade — Works Contract Lot 3",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 78357578,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-05-15",
+          "endDate": "2021-02-11"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Sofala Highway Upgrade — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 64610634,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-10-01",
+        "period": {
+          "startDate": "2018-03-20",
+          "endDate": "2027-11-05"
+        }
+      },
+      {
+        "title": "Sofala Highway Upgrade — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Ministério das Obras Públicas",
+        "value": {
+          "amount": 72858801,
+          "currency": "USD"
+        },
+        "dateSigned": "2018-04-15",
+        "period": {
+          "startDate": "2023-04-01",
+          "endDate": "2025-02-16"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Sofala Highway Upgrade — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-12-25"
+      },
+      {
+        "title": "Sofala Highway Upgrade — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-03-17"
+      },
+      {
+        "title": "Sofala Highway Upgrade — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2018-09-08"
+      },
+      {
+        "title": "Sofala Highway Upgrade — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2020-08-28"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0037",
+    "title": "Cabo Delgado Irrigation Canal",
+    "description": "Completion phase of the cabo delgado irrigation canal project in Cabo Delgado province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "water",
+    "province": "Cabo Delgado",
+    "budget": {
+      "amount": 219165813,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-04-01",
+      "endDate": "2028-06-24"
+    },
+    "parties": [
+      {
+        "name": "Conduril Engenharia",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Cabo Delgado Irrigation Canal — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 113966222,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-11-17",
+          "endDate": "2018-04-18"
+        }
+      },
+      {
+        "title": "Cabo Delgado Irrigation Canal — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 98624615,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-12-16",
+          "endDate": "2020-10-02"
+        }
+      },
+      {
+        "title": "Cabo Delgado Irrigation Canal — Works Contract Lot 3",
+        "status": "active",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 100816273,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-04-10",
+          "endDate": "2023-08-22"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Cabo Delgado Irrigation Canal — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 109582906,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-03-26",
+        "period": {
+          "startDate": "2018-01-03",
+          "endDate": "2024-06-10"
+        }
+      },
+      {
+        "title": "Cabo Delgado Irrigation Canal — Civil Works Lot 2",
+        "status": "pending",
+        "supplier": "DPOPH Sofala",
+        "value": {
+          "amount": 92049641,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-02-22",
+        "period": {
+          "startDate": "2020-05-06",
+          "endDate": "2027-08-15"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Cabo Delgado Irrigation Canal — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2023-02-23"
+      },
+      {
+        "title": "Cabo Delgado Irrigation Canal — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-01-07"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0038",
+    "title": "Tete Secondary School Rehabilitation",
+    "description": "Identification phase of the tete secondary school rehabilitation project in Tete province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "education",
+    "province": "Tete",
+    "budget": {
+      "amount": 215048446,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2021-11-12",
+      "endDate": "2025-04-26"
+    },
+    "parties": [
+      {
+        "name": "STFA Group",
+        "role": "buyer"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Tete Secondary School Rehabilitation — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 88169862,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-06-12",
+          "endDate": "2018-02-06"
+        }
+      },
+      {
+        "title": "Tete Secondary School Rehabilitation — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 111825191,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-09-06",
+          "endDate": "2023-06-09"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Tete Secondary School Rehabilitation — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "FIPAG",
+        "value": {
+          "amount": 90320347,
+          "currency": "MZN"
+        },
+        "dateSigned": "2019-08-14",
+        "period": {
+          "startDate": "2019-08-08",
+          "endDate": "2028-01-13"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Tete Secondary School Rehabilitation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-03-25"
+      },
+      {
+        "title": "Tete Secondary School Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2019-09-12"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0039",
+    "title": "Zambezia District Hospital Upgrade",
+    "description": "Completion phase of the zambezia district hospital upgrade project in Zambezia province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "health",
+    "province": "Zambezia",
+    "budget": {
+      "amount": 449388896,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-12-06",
+      "endDate": "2024-01-14"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "FIPAG",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Zambezia District Hospital Upgrade — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 265139448,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-12-26",
+          "endDate": "2023-10-07"
+        }
+      },
+      {
+        "title": "Zambezia District Hospital Upgrade — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 188743336,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-05-19",
+          "endDate": "2020-10-07"
+        }
+      },
+      {
+        "title": "Zambezia District Hospital Upgrade — Works Contract Lot 3",
+        "status": "cancelled",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 188743336,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-02-04",
+          "endDate": "2018-12-10"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Zambezia District Hospital Upgrade — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "DPOPH Nampula",
+        "value": {
+          "amount": 220200559,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-07-18",
+        "period": {
+          "startDate": "2019-03-26",
+          "endDate": "2027-08-04"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Zambezia District Hospital Upgrade — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2023-04-07"
+      },
+      {
+        "title": "Zambezia District Hospital Upgrade — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2023-10-01"
+      },
+      {
+        "title": "Zambezia District Hospital Upgrade — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-12-03"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0040",
+    "title": "Nampula Bridge Construction",
+    "description": "Decommissioning phase of the nampula bridge construction project in Nampula province. Funded under the national infrastructure development programme.",
+    "status": "decommissioning",
+    "sector": "transport",
+    "province": "Nampula",
+    "budget": {
+      "amount": 349498487,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-04-27",
+      "endDate": "2028-11-08"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Educação",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Nampula Bridge Construction — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 146789364,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-03-27",
+          "endDate": "2018-03-13"
+        }
+      },
+      {
+        "title": "Nampula Bridge Construction — Works Contract Lot 2",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 195719152,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-09-17",
+          "endDate": "2019-10-08"
+        }
+      },
+      {
+        "title": "Nampula Bridge Construction — Works Contract Lot 3",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 160769304,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-04-08",
+          "endDate": "2019-10-14"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Nampula Bridge Construction — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "FIPAG",
+        "value": {
+          "amount": 171254258,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-08-22",
+        "period": {
+          "startDate": "2022-08-09",
+          "endDate": "2026-12-16"
+        }
+      },
+      {
+        "title": "Nampula Bridge Construction — Civil Works Lot 2",
+        "status": "pending",
+        "supplier": "DPOPH Nampula",
+        "value": {
+          "amount": 136304409,
+          "currency": "USD"
+        },
+        "dateSigned": "2022-12-22",
+        "period": {
+          "startDate": "2023-09-26",
+          "endDate": "2024-12-27"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Nampula Bridge Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2020-04-03"
+      },
+      {
+        "title": "Nampula Bridge Construction — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2023-03-12"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0041",
+    "title": "Niassa Rural Electrification",
+    "description": "Implementation phase of the niassa rural electrification project in Niassa province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "energy",
+    "province": "Niassa",
+    "budget": {
+      "amount": 333358595,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2023-11-07",
+      "endDate": "2028-02-04"
+    },
+    "parties": [
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "buyer"
+      },
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Niassa Rural Electrification — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 163345711,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-09-11",
+          "endDate": "2021-05-22"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Niassa Rural Electrification — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 153344953,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-08-12",
+        "period": {
+          "startDate": "2020-06-05",
+          "endDate": "2025-06-14"
+        }
+      },
+      {
+        "title": "Niassa Rural Electrification — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 180013641,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-02-08",
+        "period": {
+          "startDate": "2021-04-26",
+          "endDate": "2024-02-01"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Niassa Rural Electrification — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2022-06-26"
+      },
+      {
+        "title": "Niassa Rural Electrification — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2023-07-12"
+      },
+      {
+        "title": "Niassa Rural Electrification — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2019-12-23"
+      },
+      {
+        "title": "Niassa Rural Electrification — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2021-02-25"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0042",
+    "title": "Inhambane Maternity Ward Rehabilitation",
+    "description": "Decommissioning phase of the inhambane maternity ward rehabilitation project in Inhambane province. Funded under the national infrastructure development programme.",
+    "status": "decommissioning",
+    "sector": "health",
+    "province": "Inhambane",
+    "budget": {
+      "amount": 275746854,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2018-10-02",
+      "endDate": "2026-09-09"
+    },
+    "parties": [
+      {
+        "name": "DPOPH Sofala",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Nampula",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Ministério da Educação",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 132358489,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-01-05",
+          "endDate": "2018-12-08"
+        }
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 113056210,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-05-09",
+          "endDate": "2020-01-10"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 148903301,
+          "currency": "MZN"
+        },
+        "dateSigned": "2023-11-23",
+        "period": {
+          "startDate": "2021-11-18",
+          "endDate": "2025-12-12"
+        }
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 151660769,
+          "currency": "MZN"
+        },
+        "dateSigned": "2018-04-20",
+        "period": {
+          "startDate": "2023-08-26",
+          "endDate": "2026-04-28"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2022-02-07"
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2021-03-17"
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2021-05-08"
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2019-09-01"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0043",
+    "title": "Sofala Bridge Construction",
+    "description": "Preparation phase of the sofala bridge construction project in Sofala province. Funded under the national infrastructure development programme.",
+    "status": "preparation",
+    "sector": "transport",
+    "province": "Sofala",
+    "budget": {
+      "amount": 212360069,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2019-03-05",
+      "endDate": "2028-04-04"
+    },
+    "parties": [
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério das Obras Públicas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "FIPAG",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Sofala Bridge Construction — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 93438430,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-01-11",
+          "endDate": "2023-06-21"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Sofala Bridge Construction — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "Banco Mundial",
+        "value": {
+          "amount": 74326024,
+          "currency": "MZN"
+        },
+        "dateSigned": "2021-09-28",
+        "period": {
+          "startDate": "2018-07-10",
+          "endDate": "2028-04-04"
+        }
+      },
+      {
+        "title": "Sofala Bridge Construction — Civil Works Lot 2",
+        "status": "active",
+        "supplier": "EDM - Electricidade de Moçambique",
+        "value": {
+          "amount": 76449624,
+          "currency": "MZN"
+        },
+        "dateSigned": "2019-07-04",
+        "period": {
+          "startDate": "2021-05-14",
+          "endDate": "2026-09-09"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Sofala Bridge Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2018-07-14"
+      },
+      {
+        "title": "Sofala Bridge Construction — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2021-07-05"
+      },
+      {
+        "title": "Sofala Bridge Construction — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2018-10-27"
+      },
+      {
+        "title": "Sofala Bridge Construction — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-11-13"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0044",
+    "title": "Manica Health Centre Construction",
+    "description": "Implementation phase of the manica health centre construction project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "health",
+    "province": "Manica",
+    "budget": {
+      "amount": 477040966,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2021-03-20",
+      "endDate": "2026-09-27"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "Conduril Engenharia",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Manica Health Centre Construction — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 205127615,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-11-14",
+          "endDate": "2019-09-02"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Health Centre Construction — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Fundo de Estradas",
+        "value": {
+          "amount": 209898025,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-06-14",
+        "period": {
+          "startDate": "2019-05-27",
+          "endDate": "2027-05-23"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Health Centre Construction — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2022-02-14"
+      },
+      {
+        "title": "Manica Health Centre Construction — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-01-02"
+      },
+      {
+        "title": "Manica Health Centre Construction — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2019-07-28"
+      },
+      {
+        "title": "Manica Health Centre Construction — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2022-11-13"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0045",
+    "title": "Zambezia Technical College Expansion",
+    "description": "Cancelled phase of the zambezia technical college expansion project in Zambezia province. Funded under the national infrastructure development programme.",
+    "status": "cancelled",
+    "sector": "education",
+    "province": "Zambezia",
+    "budget": {
+      "amount": 117544052,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2022-11-04",
+      "endDate": "2024-03-10"
+    },
+    "parties": [
+      {
+        "name": "DPOPH Nampula",
+        "role": "buyer"
+      },
+      {
+        "name": "African Development Bank",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "EDM - Electricidade de Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Zambezia Technical College Expansion — Works Contract Lot 1",
+        "status": "cancelled",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 64649228,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-07-18",
+          "endDate": "2018-07-08"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Zambezia Technical College Expansion — Civil Works Lot 1",
+        "status": "terminated",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 61122907,
+          "currency": "MZN"
+        },
+        "dateSigned": "2019-08-02",
+        "period": {
+          "startDate": "2022-01-25",
+          "endDate": "2024-06-20"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Zambezia Technical College Expansion — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2020-07-22"
+      },
+      {
+        "title": "Zambezia Technical College Expansion — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2021-03-24"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0046",
+    "title": "Maputo Teacher Training Centre",
+    "description": "Maintenance phase of the maputo teacher training centre project in Maputo province. Funded under the national infrastructure development programme.",
+    "status": "maintenance",
+    "sector": "education",
+    "province": "Maputo",
+    "budget": {
+      "amount": 139007577,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2020-08-23",
+      "endDate": "2025-10-05"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério das Obras Públicas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Fundo de Estradas",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Maputo Teacher Training Centre — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 68113712,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2023-04-02",
+          "endDate": "2020-10-26"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Maputo Teacher Training Centre — Civil Works Lot 1",
+        "status": "active",
+        "supplier": "STFA Group",
+        "value": {
+          "amount": 48652651,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-08-22",
+        "period": {
+          "startDate": "2023-03-22",
+          "endDate": "2025-01-14"
+        }
+      },
+      {
+        "title": "Maputo Teacher Training Centre — Civil Works Lot 2",
+        "status": "pending",
+        "supplier": "JICA Mozambique",
+        "value": {
+          "amount": 72283940,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-11-07",
+        "period": {
+          "startDate": "2023-07-03",
+          "endDate": "2027-01-19"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Maputo Teacher Training Centre — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2023-05-28"
+      },
+      {
+        "title": "Maputo Teacher Training Centre — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2019-08-27"
+      },
+      {
+        "title": "Maputo Teacher Training Centre — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2019-10-24"
+      },
+      {
+        "title": "Maputo Teacher Training Centre — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2018-01-04"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0047",
+    "title": "Inhambane Teacher Training Centre",
+    "description": "Completion phase of the inhambane teacher training centre project in Inhambane province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "education",
+    "province": "Inhambane",
+    "budget": {
+      "amount": 236397958,
+      "currency": "MZN"
+    },
+    "period": {
+      "startDate": "2019-11-09",
+      "endDate": "2025-02-22"
+    },
+    "parties": [
+      {
+        "name": "Ministério da Saúde",
+        "role": "buyer"
+      },
+      {
+        "name": "DPOPH Sofala",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Inhambane Teacher Training Centre — Works Contract Lot 1",
+        "status": "active",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 139474795,
+          "currency": "MZN"
+        },
+        "tenderPeriod": {
+          "startDate": "2021-10-10",
+          "endDate": "2023-11-04"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Inhambane Teacher Training Centre — Civil Works Lot 1",
+        "status": "pending",
+        "supplier": "China Road and Bridge Corporation",
+        "value": {
+          "amount": 104015101,
+          "currency": "MZN"
+        },
+        "dateSigned": "2020-12-12",
+        "period": {
+          "startDate": "2018-12-05",
+          "endDate": "2028-07-11"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Inhambane Teacher Training Centre — contractSigned",
+        "documentType": "contractSigned",
+        "format": "application/pdf",
+        "datePublished": "2019-10-11"
+      },
+      {
+        "title": "Inhambane Teacher Training Centre — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2020-07-09"
+      },
+      {
+        "title": "Inhambane Teacher Training Centre — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2021-02-25"
+      },
+      {
+        "title": "Inhambane Teacher Training Centre — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2023-11-21"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0048",
+    "title": "Inhambane Maternity Ward Rehabilitation",
+    "description": "Identification phase of the inhambane maternity ward rehabilitation project in Inhambane province. Funded under the national infrastructure development programme.",
+    "status": "identification",
+    "sector": "health",
+    "province": "Inhambane",
+    "budget": {
+      "amount": 84411037,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2022-05-03",
+      "endDate": "2026-01-25"
+    },
+    "parties": [
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "buyer"
+      },
+      {
+        "name": "Conduril Engenharia",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Administração Nacional de Estradas",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 34608525,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2019-08-17",
+          "endDate": "2019-01-22"
+        }
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Works Contract Lot 2",
+        "status": "complete",
+        "procurementMethod": "limited",
+        "value": {
+          "amount": 43893739,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-10-16",
+          "endDate": "2021-11-19"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "African Development Bank",
+        "value": {
+          "amount": 31232083,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-10-22",
+        "period": {
+          "startDate": "2020-12-20",
+          "endDate": "2024-08-27"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2022-10-19"
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — environmentalImpact",
+        "documentType": "environmentalImpact",
+        "format": "application/pdf",
+        "datePublished": "2023-12-07"
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — feasibilityStudy",
+        "documentType": "feasibilityStudy",
+        "format": "application/pdf",
+        "datePublished": "2018-01-20"
+      },
+      {
+        "title": "Inhambane Maternity Ward Rehabilitation — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2021-08-07"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0049",
+    "title": "Gaza Medical Supply Depot",
+    "description": "Implementation phase of the gaza medical supply depot project in Gaza province. Funded under the national infrastructure development programme.",
+    "status": "implementation",
+    "sector": "health",
+    "province": "Gaza",
+    "budget": {
+      "amount": 303424028,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2018-02-28",
+      "endDate": "2027-12-08"
+    },
+    "parties": [
+      {
+        "name": "African Development Bank",
+        "role": "buyer"
+      },
+      {
+        "name": "Fundo de Estradas",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "Banco Mundial",
+        "role": "funder"
+      }
+    ],
+    "isPublic": true,
+    "tenders": [
+      {
+        "title": "Gaza Medical Supply Depot — Works Contract Lot 1",
+        "status": "planned",
+        "procurementMethod": "selective",
+        "value": {
+          "amount": 142609293,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-09-03",
+          "endDate": "2023-11-08"
+        }
+      },
+      {
+        "title": "Gaza Medical Supply Depot — Works Contract Lot 2",
+        "status": "planned",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 160814734,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2018-12-06",
+          "endDate": "2023-02-21"
+        }
+      },
+      {
+        "title": "Gaza Medical Supply Depot — Works Contract Lot 3",
+        "status": "complete",
+        "procurementMethod": "open",
+        "value": {
+          "amount": 151712014,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2022-09-12",
+          "endDate": "2018-12-14"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Gaza Medical Supply Depot — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 112266890,
+          "currency": "USD"
+        },
+        "dateSigned": "2020-07-16",
+        "period": {
+          "startDate": "2018-11-02",
+          "endDate": "2027-05-11"
+        }
+      },
+      {
+        "title": "Gaza Medical Supply Depot — Civil Works Lot 2",
+        "status": "terminated",
+        "supplier": "Ministério da Educação",
+        "value": {
+          "amount": 121369611,
+          "currency": "USD"
+        },
+        "dateSigned": "2023-12-04",
+        "period": {
+          "startDate": "2023-03-18",
+          "endDate": "2025-08-16"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Gaza Medical Supply Depot — progressReport",
+        "documentType": "progressReport",
+        "format": "application/pdf",
+        "datePublished": "2018-12-16"
+      },
+      {
+        "title": "Gaza Medical Supply Depot — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2020-10-24"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-abc123-MZ-0050",
+    "title": "Manica Water Supply System",
+    "description": "Completion phase of the manica water supply system project in Manica province. Funded under the national infrastructure development programme.",
+    "status": "completion",
+    "sector": "water",
+    "province": "Manica",
+    "budget": {
+      "amount": 44743224,
+      "currency": "USD"
+    },
+    "period": {
+      "startDate": "2020-02-23",
+      "endDate": "2025-05-11"
+    },
+    "parties": [
+      {
+        "name": "Mota-Engil Moçambique",
+        "role": "buyer"
+      },
+      {
+        "name": "Ministério da Saúde",
+        "role": "procuringEntity"
+      },
+      {
+        "name": "China Road and Bridge Corporation",
+        "role": "funder"
+      }
+    ],
+    "isPublic": false,
+    "tenders": [
+      {
+        "title": "Manica Water Supply System — Works Contract Lot 1",
+        "status": "complete",
+        "procurementMethod": "direct",
+        "value": {
+          "amount": 18792154,
+          "currency": "USD"
+        },
+        "tenderPeriod": {
+          "startDate": "2020-08-24",
+          "endDate": "2019-10-25"
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "title": "Manica Water Supply System — Civil Works Lot 1",
+        "status": "cancelled",
+        "supplier": "Ministério da Saúde",
+        "value": {
+          "amount": 17449857,
+          "currency": "USD"
+        },
+        "dateSigned": "2019-04-02",
+        "period": {
+          "startDate": "2021-06-05",
+          "endDate": "2024-03-22"
+        }
+      },
+      {
+        "title": "Manica Water Supply System — Civil Works Lot 2",
+        "status": "cancelled",
+        "supplier": "Mota-Engil Moçambique",
+        "value": {
+          "amount": 15660128,
+          "currency": "USD"
+        },
+        "dateSigned": "2021-11-08",
+        "period": {
+          "startDate": "2022-07-22",
+          "endDate": "2025-03-03"
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "Manica Water Supply System — tenderNotice",
+        "documentType": "tenderNotice",
+        "format": "application/pdf",
+        "datePublished": "2022-01-01"
+      },
+      {
+        "title": "Manica Water Supply System — completionCertificate",
+        "documentType": "completionCertificate",
+        "format": "application/pdf",
+        "datePublished": "2021-06-27"
+      }
+    ]
+  }
+]

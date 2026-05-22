@@ -46,4 +46,22 @@ router.get('/projects/:id', async(req, res) => {
     }
 });
 
+
+router.post('/projects', async(req, res) => {
+    try {
+        // Placeholder for JWT auth middleware
+        // const user = req.user; // This will be available once auth middleware is implemented
+
+        if (!req.body.ocid || !req.body.title) {
+            return res.status(400).json({ error: 'ocid and title are required' })
+        }
+
+        const project = await Project.create(req.body)
+        res.status(201).json(project)
+    } catch (error) {
+        res.status(500).json({ error: error.message })
+    }
+})
+
+
 module.exports = router

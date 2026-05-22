@@ -4,6 +4,7 @@ const Project = require('../models/Project')
 const Document = require('../models/Document')
 const Tender = require('../models/Tender')
 const Contract = require('../models/Contract')
+const auth = require('../middleware/auth')
 
 router.get('/projects', async(req, res) => {
     try{
@@ -47,21 +48,18 @@ router.get('/projects/:id', async(req, res) => {
 });
 
 
-router.post('/projects', async(req, res) => {
-    try {
-        // Placeholder for JWT auth middleware
-        // const user = req.user; // This will be available once auth middleware is implemented
-
-        if (!req.body.ocid || !req.body.title) {
-            return res.status(400).json({ error: 'ocid and title are required' })
-        }
-
-        const project = await Project.create(req.body)
-        res.status(201).json(project)
-    } catch (error) {
-        if (error.code === 11000) return res.status(409).json({ error: 'ocid already exists' })
-        res.status(500).json({ error: error.message })
+router.post('/projects', auth, async (req, res) => {
+  try {
+    if (!req.body.ocid || !req.body.title) {
+      return res.status(400).json({ error: 'ocid and title are required' })
     }
+
+    const project = await Project.create(req.body)
+    res.status(201).json(project)
+  } catch (error) {
+    if (error.code === 11000) return res.status(409).json({ error: 'ocid already exists' })
+    res.status(500).json({ error: error.message })
+  }
 })
 
 

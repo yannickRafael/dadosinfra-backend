@@ -1,6 +1,9 @@
 const express = require('express')
 const router = express.Router()
 const Project = require('../models/Project')
+const Document = require('../models/Document')
+const Tender = require('../models/Tender')
+const Contract = require('../models/Contract')
 
 router.get('/projects', async(req, res) => {
     try{
@@ -22,6 +25,23 @@ router.get('/projects', async(req, res) => {
     } catch (error) {
         res.status(500).json({ error: error.message })
 
+    }
+});
+
+router.get('/projects/:id', async(req, res) => {
+    try{
+        const project = await Project.findById(req.params.id);
+        if (!project) return res.status(404).json({ error: 'Project not found' });
+
+        const [tenders, contracts, documents] = await Promise.all([
+            Tender.find({ projectId: project._id }),
+            Contract.find({ projectId: project._id }),
+            Document.find({ projectId: project._id })
+        ]);
+
+        res.json({...project.toObject(), tenders, contracts, documents })
+    } catch (error) {
+        res.status(500).json({ error: error.message })
     }
 });
 

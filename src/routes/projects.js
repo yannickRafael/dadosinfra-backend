@@ -59,6 +59,7 @@ router.post('/projects', async(req, res) => {
         const project = await Project.create(req.body)
         res.status(201).json(project)
     } catch (error) {
+        if (error.code === 11000) return res.status(409).json({ error: 'ocid already exists' })
         res.status(500).json({ error: error.message })
     }
 })

@@ -6,7 +6,8 @@ const DocumentSchema = mongoose.Schema({
     documentType: String,
     format: {type: String, default: 'application/pdf'},
     url: String,
-    datePublished: String
+    datePublished: String,
+    _objectName: String
 }, {timestamps:true});
 
 DocumentSchema.index({projectId:1});

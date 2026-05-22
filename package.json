@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev":"nodemon src/index.js",
+    "dev": "nodemon src/index.js",
     "import": "node scripts/import.js",
     "seedUser": "node scripts/seedUser.js"
   },
@@ -20,7 +20,8 @@
     "jsonwebtoken": "^9.0.3",
     "minio": "^8.0.7",
     "mongoose": "^9.6.2",
-    "multer": "^2.1.1"
+    "multer": "^2.1.1",
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"

@@ -8,6 +8,7 @@ const app = express()
 app.use(express.json())
 
 app.use('/api', require('./routes/health'))
+app.use('/api', require('./routes/auth'))
 app.use('/api', require('./routes/projects'))
 app.use('/api', require('./routes/documents'))
 

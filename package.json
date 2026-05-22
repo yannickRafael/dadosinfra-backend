@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node src/index.js",
     "dev":"nodemon src/index.js",
-    "import":"node scripts/import.js"
+    "import": "node scripts/import.js",
+    "seedUser": "node scripts/seedUser.js"
   },
   "keywords": [],
   "author": "",

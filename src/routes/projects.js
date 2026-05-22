@@ -41,6 +41,7 @@ router.get('/projects/:id', async(req, res) => {
 
         res.json({...project.toObject(), tenders, contracts, documents })
     } catch (error) {
+        if (error.name === 'CastError') return res.status(400).json({ error: 'Invalid project ID' })
         res.status(500).json({ error: error.message })
     }
 });

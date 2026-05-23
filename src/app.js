@@ -1,5 +1,7 @@
 require('dotenv').config()
 const express = require('express')
+const swaggerUi = require('swagger-ui-express')
+const swaggerSpec = require('./config/swagger')
 const { generalLimiter } = require('./middleware/rateLimiter')
 const auditLog = require('./middleware/auditLog')
 
@@ -8,6 +10,8 @@ const app = express()
 app.use(express.json())
 app.use(generalLimiter)
 app.use(auditLog)
+
+app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec))
 
 app.use('/api', require('./routes/health'))
 app.use('/api', require('./routes/auth'))

@@ -10,8 +10,15 @@ Complete steps to get the app running from zero.
 
 ---
 
-## 1. Clone the repository
+## 1. Get the source code
 
+**Option A — from the zip file (recommended):**
+```bash
+unzip "Backend - Yannick Rafael.zip"
+cd dadosinfra-backend
+```
+
+**Option B — from GitHub:**
 ```bash
 git clone https://github.com/yannickRafael/dadosinfra-backend.git
 cd dadosinfra-backend

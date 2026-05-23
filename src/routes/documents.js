@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const multer = require('multer')
-const { v4: uuidv4 } = require('uuid')
+const { randomUUID } = require('crypto')
 const Project = require('../models/Project')
 const Document = require('../models/Document')
 const auth = require('../middleware/auth')
@@ -15,7 +15,7 @@ router.post('/projects/:id/documents', auth, upload.single('file'), validateFile
     const project = await Project.findById(req.params.id)
     if (!project) return res.status(404).json({ error: 'Project not found' })
 
-    const objectName = `${req.params.id}/${uuidv4()}.pdf`
+    const objectName = `${req.params.id}/${randomUUID()}.pdf`
     await storageService.upload(objectName, req.file.buffer, req.file.mimetype)
 
     const doc = await Document.create({

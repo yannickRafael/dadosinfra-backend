@@ -48,7 +48,8 @@
 - `nginx/dadosinfra.conf` — reverse proxy config
 - `RESTORE.md` — full restore guide from zero
 - Completed `README.md` — setup, env vars, API reference, design decisions
+- Swagger UI at `GET /api/docs` — interactive API documentation with endpoint descriptions
 
 ---
 
-**Total: ~9 hours over 5 Parts**
+**Total: ~9.5 hours over 5 Parts**

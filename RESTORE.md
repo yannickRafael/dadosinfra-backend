@@ -151,3 +151,15 @@ npm test
 ```
 
 Expected: 11 tests passing.
+
+---
+
+## 12. Interactive API docs
+
+Open in browser:
+
+```
+http://localhost:3000/api/docs
+```
+
+Swagger UI — all endpoints with descriptions. Click **Authorize** and paste the JWT token from the login endpoint to test protected routes.

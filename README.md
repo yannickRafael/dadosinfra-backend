@@ -46,6 +46,18 @@ npm run dev
 
 ---
 
+## Interactive API Docs
+
+Start the server and open:
+
+```
+http://localhost:3000/api/docs
+```
+
+Swagger UI — browse all endpoints, read descriptions, and test requests directly in the browser. Use the **Authorize** button to enter your JWT token for protected endpoints.
+
+---
+
 ## API Reference
 
 ### Health

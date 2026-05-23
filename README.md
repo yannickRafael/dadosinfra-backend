@@ -9,23 +9,85 @@ Rebuilt from Firebase/Google Cloud onto national on-premises infrastructure.
 
 ## Setup
 
-_To be completed on Day 5._
+See [RESTORE.md](./RESTORE.md) for the full step-by-step restore guide.
+
+Quick start:
+
+```bash
+git clone https://github.com/yannickRafael/dadosinfra-backend.git
+cd dadosinfra-backend
+cp .env.example .env   # fill in values
+docker compose up -d
+docker exec -it dadosinfra-db mongosh --eval "rs.initiate()"
+npm install
+npm run import
+npm run seedUser
+npm run dev
+```
 
 ---
 
 ## Environment Variables
 
-_To be completed on Day 5._
+| Variable | Description |
+|---|---|
+| `PORT` | Port the Express server listens on |
+| `MONGODB_URI` | MongoDB connection string (must include `replicaSet=rs0&directConnection=true`) |
+| `MINIO_ENDPOINT` | MinIO host (e.g. `localhost`) |
+| `MINIO_PORT` | MinIO port (default `9000`) |
+| `MINIO_USE_SSL` | `true` or `false` |
+| `MINIO_ACCESS_KEY` | MinIO access key |
+| `MINIO_SECRET_KEY` | MinIO secret key |
+| `MINIO_BUCKET` | Bucket name for document storage (e.g. `documents`) |
+| `MINIO_ROOT_USER` | MinIO root user (used by Docker Compose) |
+| `MINIO_ROOT_PASSWORD` | MinIO root password (used by Docker Compose) |
+| `JWT_SECRET` | Secret for signing JWT tokens — use a long random string |
+| `JWT_EXPIRES_IN` | Token expiry (e.g. `8h`) |
+
+---
+
+## API Reference
+
+### Health
+
+| Method | Path | Auth | Description |
+|---|---|---|---|
+| GET | `/api/health` | None | Returns MongoDB + MinIO status |
+
+### Auth
+
+| Method | Path | Auth | Description |
+|---|---|---|---|
+| POST | `/api/auth/login` | None | Returns JWT token |
+
+Request body: `{ "email": "...", "password": "..." }`
+
+### Projects
+
+| Method | Path | Auth | Description |
+|---|---|---|---|
+| GET | `/api/projects` | None | List projects with filters + pagination |
+| GET | `/api/projects/:id` | None | Single project with tenders, contracts, documents |
+| POST | `/api/projects` | Bearer token | Create project |
+
+Query params for `GET /api/projects`: `sector`, `province`, `status`, `isPublic`, `page`, `limit`
+
+### Documents
+
+| Method | Path | Auth | Description |
+|---|---|---|---|
+| POST | `/api/projects/:id/documents` | Bearer token | Upload PDF document |
+| GET | `/api/documents/:id/file` | None | Stream PDF file |
 
 ---
 
 ## Running the Importer
 
+Loads `scripts/data.json` into MongoDB. Idempotent — safe to run multiple times.
+
 ```bash
 npm run import
 ```
-
-_Details to be completed on Day 5._
 
 ---
 
@@ -44,24 +106,43 @@ tenders, contracts, and documents inside the project document because:
 
 ### Authentication
 
-_To be completed on Day 4._
+JWT-based authentication. Login via `POST /api/auth/login` returns a signed token.
+Protected routes require `Authorization: Bearer <token>` header.
+Admin user is provisioned via `npm run seedUser` — no self-registration endpoint.
 
 ### Indexes
 
-_To be completed on Day 2._
+MongoDB indexes on `Project`: `ocid` (unique), `status`, `sector`, `province`, `isPublic`.
+Indexes on `Tender`, `Contract`, `Document`: `projectId` (all queries filter by project).
 
 ### Security floor
 
-_To be completed on Day 4._
+- Rate limiting: 100 req/15min globally, 10 req/15min on login endpoint
+- Magic byte validation: PDF uploads rejected if first 4 bytes are not `%PDF`
+- Audit log: all mutating requests (POST/PUT/PATCH/DELETE) logged with timestamp, path, and user ID
+- JWT verification on all write endpoints
 
 ---
 
 ## Tests
 
-_To be completed on Day 5._
+11 integration tests covering health, project listing, filtering, single project assembly,
+auth (positive and negative), and protected route access.
+
+```bash
+npm test
+```
 
 ---
 
 ## Deployment
 
-_To be completed on Day 5._
+See [nginx/dadosinfra.conf](./nginx/dadosinfra.conf) for the Nginx reverse proxy config.
+
+Production start with PM2:
+
+```bash
+pm2 start ecosystem.config.js
+pm2 save
+pm2 startup
+```

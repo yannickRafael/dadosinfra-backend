@@ -12,7 +12,7 @@ Complete steps to get the app running from zero.
 
 ## 1. Get the source code
 
-**Option A - from the zip file (recommended):**
+**Option A - from the zip file:**
 ```bash
 unzip "Backend - Yannick Rafael.zip"
 cd dadosinfra-backend
